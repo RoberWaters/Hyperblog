@@ -1,4 +1,4 @@
-# Hyperblog 💚
+# Hyperblog �
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi fue para mi algo especial, aqui aprendi muchas cosas interesantes, cosas 
 que me hicieron amar aun mas el mundo de la tecnologia :D
